@@ -4,17 +4,17 @@
   "assets": [
     {
       "id": "egg_step_1",
-      "type": "image",
-      "storagePath": "assets/images/egg_step1.png",
+      "type": "video",
+      "storagePath": "assets/videos/egg_step1.mp4",
       "activity": "default",
       "screen": ["home"]
     },
     {
-      "id": "egg_step_3",
-      "type": "image",
-      "storagePath": "assets/images/egg_ste3.png",
+      "id": "empty_room",
+      "type": "video",
+      "storagePath": "assets/videos/empty_room_summer.mp4",
       "activity": "default",
-      "screen": ["home"]
+      "screen": ["room"]
     },
     {
       "id": "ovali_neige",
