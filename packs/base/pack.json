@@ -3,32 +3,42 @@
   "version": "1.0.0",
   "assets": [
     {
-      "id": "ovali_step1",
-      "type": "video",
-      "storagePath": "assets/videos/ovali_step1.mp4",
+      "id": "empty_living_room_night",
+      "type": "image",
+      "storagePath": "assets/images/dinner_night_bg.png",
       "activity": "default",
-      "screen": ["home"]
+      "timeSlot": { "from": 19.00, "to": 7.0 },
+      "screen": [
+        "home"
+      ]
     },
     {
       "id": "empty_room",
       "type": "video",
       "storagePath": "assets/videos/empty_room_summer.mp4",
       "activity": "default",
-      "screen": ["room"]
+      "screen": [
+        "room"
+      ]
     },
     {
       "id": "ovali_neige",
       "type": "image",
       "storagePath": "assets/images/ovali_neige.png",
       "activity": "default",
-      "screen": ["home"]
+      "timeSlot": { "from": 7.0, "to": 7.5 },
+      "screen": [
+        "home"
+      ]
     },
     {
       "id": "sleeping_video",
       "type": "video",
       "storagePath": "assets/videos/ovali_sleeping.mp4",
       "activity": "sleeping",
-      "screen": ["home", "room"]
+      "screen": [
+        "room"
+      ]
     }
   ]
 }
