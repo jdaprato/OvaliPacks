@@ -5,7 +5,7 @@
     {
       "id": "egg_step_1",
       "type": "video",
-      "storagePath": "assets/videos/egg_step1.mp4",
+      "storagePath": "assets/videos/ovali_step1.mp4",
       "activity": "default",
       "screen": ["home"]
     },
