@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-03-20T13:25:00Z",
+  "packs": [
+    {
+      "id": "base",
+      "name": "Pack de Base",
+      "type": "core",
+      "required": true,
+      "configPath": "packs/base/pack.json"
+    }
+  ]
+}

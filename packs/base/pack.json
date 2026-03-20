@@ -1,0 +1,34 @@
+{
+  "id": "base",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "id": "egg_step_1",
+      "type": "image",
+      "storagePath": "assets/images/egg_step1.png",
+      "activity": "default",
+      "screen": ["home"]
+    },
+    {
+      "id": "egg_step_3",
+      "type": "image",
+      "storagePath": "assets/images/egg_ste3.png",
+      "activity": "default",
+      "screen": ["home"]
+    },
+    {
+      "id": "ovali_neige",
+      "type": "image",
+      "storagePath": "assets/images/ovali_neige.png",
+      "activity": "default",
+      "screen": ["home"]
+    },
+    {
+      "id": "sleeping_video",
+      "type": "video",
+      "storagePath": "assets/videos/ovali_sleeping.mp4",
+      "activity": "sleeping",
+      "screen": ["home", "room"]
+    }
+  ]
+}
