@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "assets": [
     {
-      "id": "egg_step_1",
+      "id": "ovali_step1",
       "type": "video",
       "storagePath": "assets/videos/ovali_step1.mp4",
       "activity": "default",
