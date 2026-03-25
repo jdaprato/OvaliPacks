@@ -164,6 +164,16 @@
         "home"
       ]
     },
+    {
+      "id": "empty_living_room_night",
+      "type": "image",
+      "storagePath": "assets/images/spring/spring_evening_living_room.png",
+      "activity": "sleeping",
+      "timeSlot": { "from": "20:31", "to": "20:30" },
+      "screen": [
+        "room"
+      ]
+    },
       {
       "id": "reading_night_in_bed",
       "type": "image",
