@@ -1,0 +1,188 @@
+{
+  "id": "cowboy",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "id": "breakfast_time",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/breakfast_bg.jpg",
+      "activity": "default",
+      "timeSlot": { "from": "7:30", "to": "8:30" },
+      "screen": [
+        "home"
+      ]
+    },
+    {
+      "id": "brushing_teeth",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/brush_teeth.png",
+      "activity": "default",
+      "timeSlot": { "from": "8:31", "to": "8:59" },
+      "screen": [
+        "home"
+      ]
+    },
+        {
+      "id": "empty_room",
+      "type": "video",
+      "storagePath": "assets/videos/spring/empty_room_summer.mp4",
+      "activity": "default",
+      "timeSlot": { "from": "7:30", "to": "8:59" },
+      "screen": [
+        "room"
+      ]
+    },
+    {
+      "id": "empty_living_room",
+      "type": "video",
+      "storagePath": "assets/videos/spring/spring_empty_living_room.mp4",
+      "activity": "default",
+      "timeSlot": { "from": "09:00", "to": "11:30" },
+      "screen": [
+        "home"
+      ]
+    },
+    {
+      "id": "reading_in_his_room",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/ovali_reading_in_his_room.png",
+      "timeSlot": { "from": "09:00", "to": "11:30" },
+      "activity": "default",
+      "screen": [
+        "room"
+      ]
+    },
+    {
+      "id": "lunch_time",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/lunch_bg.png",
+      "activity": "default",
+      "timeSlot": { "from": "12:00", "to": "13:00" },
+      "priority": 10,
+      "screen": [
+        "home"
+      ]
+    },
+        {
+      "id": "empty_living_room",
+      "type": "video",
+      "storagePath": "assets/videos/spring/spring_empty_living_room.mp4",
+      "activity": "default",
+      "timeSlot": { "from": "13:00", "to": "13:59" },
+      "screen": [
+        "home"
+      ]
+    },
+    {
+      "id": "nap_time",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/nap_time.jpg",
+      "activity": "sleeping",
+      "timeSlot": { "from": "13:00", "to": "13:59" },
+      "screen": [
+        "room"
+      ]
+    }
+    ,
+        {
+      "id": "reading_in_his_room",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/ovali_reading_in_his_room.png",
+      "timeSlot": { "from": "14:00", "to": "15:59" },
+      "activity": "default",
+      "screen": [
+        "room"
+      ]
+    },
+    {
+      "id": "snack_time",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/snack_time.png",
+      "timeSlot": { "from": "16:00", "to": "16:29" },
+      "activity": "default",
+      "screen": [
+        "home"
+      ]
+    },
+    {
+      "id": "playing_outside",
+      "type": "video",
+      "storagePath": "assets/videos/spring/cowboy/spring_playing_outside.mp4",
+      "activity": "default",
+      "timeSlot": { "from": "16:30", "to": "18:29" },
+      "screen": [
+        "home"
+      ]
+    },
+    {
+      "id": "playing_in_living_room",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/ovali_playing_in_living_room.png",
+      "activity": "default",
+      "timeSlot": { "from": "18:30", "to": "18:59" },
+      "screen": [
+        "home"
+      ]
+    },
+     {
+      "id": "empty_room",
+      "type": "video",
+      "storagePath": "assets/videos/empty_room_summer.mp4",
+      "activity": "default",
+      "timeSlot": { "from": "16:00", "to": "18:29" },
+      "screen": [
+        "room"
+      ]
+    },
+        {
+      "id": "dinner_time",
+      "type": "image",
+      "storagePath": "assets/images/spring/spring_dinner_time.png",
+      "activity": "default",
+      "timeSlot": { "from": "19:00", "to": "20:00" },
+      "screen": [
+        "home"
+      ]
+    },
+            {
+      "id": "brushing_teeth_night",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/ovali_brushing_teeth_night.png",
+      "activity": "default",
+      "timeSlot": { "from": "20:01", "to": "20:30" },
+      "screen": [
+        "home"
+      ]
+    },
+   {
+      "id": "empty_living_room_night",
+      "type": "image",
+      "storagePath": "assets/images/spring/spring_evening_living_room.png",
+      "activity": "sleeping",
+      "timeSlot": { "from": "20:31", "to": "07:29" },
+      "screen": [
+        "home"
+      ]
+    },
+      {
+      "id": "reading_night_in_bed",
+      "type": "image",
+      "storagePath": "assets/images/cowboy/ovali_reading_in_bed.png",
+      "activity": "sleeping",
+      "timeSlot": { "from": "20:31", "to": "21:30" },
+      "screen": [
+        "room"
+      ]
+    },
+  {
+      "id": "sleeping_night",
+      "type": "video",
+      "storagePath": "assets/videos/default/ovali_sleeping.mp4",
+      "activity": "sleeping",
+      "timeSlot": { "from": "21:31", "to": "07:29" },
+      "screen": [
+        "room"
+      ]
+    }
+  ]
+}

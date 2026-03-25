@@ -8,6 +8,13 @@
       "type": "core",
       "required": true,
       "configPath": "packs/base/pack.json"
+    },
+    {
+      "id": "cowboy",
+      "name": "Pack Cowboy",
+      "type": "theme",
+      "required": false,
+      "configPath": "packs/cowboy/pack.json"
     }
   ]
 }
