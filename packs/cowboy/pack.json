@@ -10,7 +10,8 @@
       "timeSlot": { "from": "19:00", "to": "20:00" },
       "screen": [
         "home"
-      ]
+      ],
+      "priority": 10
     }
   ]
 }
