@@ -12,7 +12,7 @@
     {
       "id": "cowboy",
       "name": "Pack Cowboy",
-      "type": "theme",
+      "type": "accessory",
       "required": false,
       "configPath": "packs/cowboy/pack.json"
     }
