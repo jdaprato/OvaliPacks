@@ -137,7 +137,7 @@
         {
       "id": "dinner_time",
       "type": "image",
-      "storagePath": "assets/images/spring/spring_dinner_time.png",
+      "storagePath": "assets/images/cowboy/spring_dinner_time.png",
       "activity": "default",
       "timeSlot": { "from": "19:00", "to": "20:00" },
       "screen": [
