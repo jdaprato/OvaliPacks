@@ -25,7 +25,7 @@
         {
       "id": "empty_room",
       "type": "video",
-      "storagePath": "assets/videos/empty_room_summer.mp4",
+      "storagePath": "assets/videos/spring/empty_room_summer.mp4",
       "activity": "default",
       "timeSlot": { "from": "7:30", "to": "8:59" },
       "screen": [
@@ -123,16 +123,6 @@
         "home"
       ]
     },
-     {
-      "id": "empty_room",
-      "type": "video",
-      "storagePath": "assets/videos/empty_room_summer.mp4",
-      "activity": "default",
-      "timeSlot": { "from": "16:00", "to": "18:29" },
-      "screen": [
-        "room"
-      ]
-    },
         {
       "id": "dinner_time",
       "type": "image",
@@ -153,24 +143,14 @@
         "home"
       ]
     },
-   {
-      "id": "empty_living_room_night",
-      "type": "image",
-      "storagePath": "assets/images/spring/spring_evening_living_room.png",
+         {
+      "id": "empty_room",
+      "type": "video",
+      "storagePath": "assets/videos/empty_room_summer.mp4",
       "activity": "default",
-      "timeSlot": { "from": "20:31", "to": "07:29" },
+      "timeSlot": { "from": "16:00", "to": "20:30" },
       "screen": [
-        "home"
-      ]
-    },
-    {
-      "id": "empty_living_room_night",
-      "type": "image",
-      "storagePath": "assets/images/spring/spring_evening_living_room.png",
-      "activity": "default",
-      "timeSlot": { "from": "20:31", "to": "20:30" },
-      "screen": [
-        "home"
+        "room"
       ]
     },
       {
@@ -191,6 +171,16 @@
       "timeSlot": { "from": "21:31", "to": "07:29" },
       "screen": [
         "room"
+      ]
+    },
+    {
+      "id": "empty_living_room_night",
+      "type": "image",
+      "storagePath": "assets/images/spring/spring_evening_living_room.png",
+      "activity": "default",
+      "timeSlot": { "from": "20:31", "to": "07:29" },
+      "screen": [
+        "home"
       ]
     }
   ]
