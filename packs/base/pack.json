@@ -35,7 +35,7 @@
     {
       "id": "empty_living_room",
       "type": "video",
-      "storagePath": "assets/images/videos/spring_empty_living_room.mp4",
+      "storagePath": "assets/videos/spring_empty_living_room.mp4",
       "activity": "default",
       "timeSlot": { "from": "09:00", "to": "11:30" },
       "screen": [
@@ -108,7 +108,7 @@
       "id": "playing_outside",
       "type": "video",
       "storagePath": "assets/videos/spring/spring_playing_outside.mp4",
-      "activity": "sleeping",
+      "activity": "default",
       "timeSlot": { "from": "16:30", "to": "18:29" },
       "screen": [
         "home"
@@ -118,7 +118,7 @@
       "id": "playing_in_living_room",
       "type": "image",
       "storagePath": "assets/images/default/ovali_playing_in_living_room.png",
-      "activity": "sleeping",
+      "activity": "default",
       "timeSlot": { "from": "18:30", "to": "18:59" },
       "screen": [
         "home"
@@ -128,7 +128,7 @@
       "id": "empty_room",
       "type": "video",
       "storagePath": "assets/videos/empty_room_summer.mp4",
-      "activity": "sleeping",
+      "activity": "default",
       "timeSlot": { "from": "16:00", "to": "18:29" },
       "screen": [
         "room"
@@ -138,7 +138,7 @@
       "id": "dinner_time",
       "type": "image",
       "storagePath": "assets/images/spring/spring_dinner_time.png",
-      "activity": "sleeping",
+      "activity": "default",
       "timeSlot": { "from": "19:00", "to": "20:00" },
       "screen": [
         "home"
@@ -148,7 +148,7 @@
       "id": "brushing_teeth_night",
       "type": "image",
       "storagePath": "assets/images/default/ovali_brushing_teeth_night.png",
-      "activity": "sleeping",
+      "activity": "default",
       "timeSlot": { "from": "20:01", "to": "20:30" },
       "screen": [
         "home"
