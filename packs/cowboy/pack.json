@@ -2,6 +2,28 @@
   "id": "cowboy",
   "version": "1.0.0",
   "assets": [
+          {
+        "id": "cowboy_happy_icon",
+        "activity": "emotion_happy",
+        "type": "image",
+        "storagePath": "assets/images/cowboy/tres_bien_cowboy.png",
+        "screen": ["home", "room"] 
+      }
+      ,
+        {
+        "id": "cowboy_sad_icon",
+        "activity": "emotion_sad",
+        "type": "image",
+        "storagePath": "assets/images/cowboy/bien_cowboy.png",
+        "screen": ["home", "room"] 
+      },
+          {
+        "id": "cowboy_sad_icon",
+        "activity": "emotion_sad",
+        "type": "image",
+        "storagePath": "assets/images/cowboy/pas_bien_cowboy.png",
+        "screen": ["home", "room"] 
+      },
        {
       "id": "breakfast_time",
       "type": "image",
