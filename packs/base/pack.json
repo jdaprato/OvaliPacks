@@ -107,7 +107,7 @@
     {
       "id": "playing_outside",
       "type": "video",
-      "storagePath": "assets/videos/walking_into_forest.mp4",
+      "storagePath": "assets/videos/spring/spring_playing_outside.mp4",
       "activity": "sleeping",
       "timeSlot": { "from": "16:30", "to": "18:29" },
       "screen": [
