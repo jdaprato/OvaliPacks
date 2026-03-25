@@ -13,7 +13,7 @@
       "id": "cowboy",
       "name": "Pack Cowboy",
       "type": "accessory",
-      "required": false,
+      "required": true,
       "configPath": "packs/cowboy/pack.json"
     }
   ]
