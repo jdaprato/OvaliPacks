@@ -2,11 +2,11 @@
   "id": "cowboy",
   "version": "1.0.0",
   "assets": [
-          {
+    {
       "id": "dinner_time",
       "type": "image",
       "storagePath": "assets/images/cowboy/spring_dinner_time.png",
-      "activity": "default",
+      "activity": "dinner",
       "timeSlot": { "from": "19:00", "to": "20:00" },
       "screen": [
         "home"
