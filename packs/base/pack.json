@@ -156,7 +156,7 @@
          {
       "id": "empty_room",
       "type": "video",
-      "storagePath": "assets/videos/empty_room_summer.mp4",
+      "storagePath": "assets/videos/spring/empty_room_summer.mp4",
       "activity": "default",
       "timeSlot": { "from": "16:00", "to": "20:30" },
       "screen": [
