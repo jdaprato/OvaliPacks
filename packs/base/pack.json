@@ -77,7 +77,7 @@
       "type": "video",
       "storagePath": "assets/videos/spring/spring_empty_living_room.mp4",
       "activity": "default",
-      "timeSlot": { "from": "13:00", "to": "13:59" },
+      "timeSlot": { "from": "13:00", "to": "15:59" },
       "screen": [
         "home"
       ]
