@@ -62,6 +62,16 @@
         "home"
       ]
     },
+    {
+      "id": "empty_room",
+      "type": "video",
+      "storagePath": "assets/videos/empty_room_summer.mp4",
+      "activity": "default",
+      "timeSlot": { "from": "12:00", "to": "13:00" },
+      "screen": [
+        "room"
+      ]
+    },
         {
       "id": "empty_living_room",
       "type": "video",
