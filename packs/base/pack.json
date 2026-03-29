@@ -63,9 +63,9 @@
       ]
     },
     {
-      "id": "empty_living_room",
+      "id": "empty_room",
       "type": "video",
-      "storagePath": "assets/videos/spring/spring_empty_living_room.mp4",
+      "storagePath": "assets/videos/spring/empty_room_summer.mp4",
       "activity": "default",
       "timeSlot": { "from": "12:00", "to": "13:00" },
       "screen": [
