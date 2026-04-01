@@ -57,7 +57,7 @@
       "type": "image",
       "storagePath": "assets/images/default/lunch_bg.png",
       "activity": "default",
-      "timeSlot": { "from": "12:00", "to": "13:00" },
+      "timeSlot": { "from": "11:31", "to": "13:00" },
       "screen": [
         "home"
       ]
@@ -67,7 +67,7 @@
       "type": "video",
       "storagePath": "assets/videos/spring/empty_room_summer.mp4",
       "activity": "default",
-      "timeSlot": { "from": "12:00", "to": "13:00" },
+      "timeSlot": { "from": "11:31", "to": "13:00" },
       "screen": [
         "room"
       ]
