@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "events": [
+    {
+      "id": "easter2026",
+      "title": "Chasse aux œufs !",
+      "description": "Trouvez les 8 œufs éparpillés pour gagner un costume exclusif.",
+      "startDate": "2026-04-01T00:00:00Z",
+      "endDate": "2026-04-15T23:59:59Z",
+      "targetCount": 8,
+      "rewardItemId": "bunny_costume", 
+      "active": true
+    }
+  ]
+}
