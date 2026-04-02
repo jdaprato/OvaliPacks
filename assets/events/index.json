@@ -9,7 +9,7 @@
       "endDate": "2026-04-15T23:59:59Z",
       "targetCount": 8,
       "rewardItemId": "bunny_costume",
-      "collectibleIconUrl": "https://url-de-votre-oeuf.png",
+      "collectibleIconUrl": "egg.png",
       "debug": true,
       "locations": [
         "dashboard_home",
