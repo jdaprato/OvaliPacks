@@ -2,14 +2,26 @@
   "version": "1.0",
   "events": [
     {
-      "id": "easter2026",
-      "title": "Chasse aux œufs !",
-      "description": "Trouvez les 8 œufs éparpillés pour gagner un costume exclusif.",
+      "id": "easter_2026",
+      "title": "Chasse aux Œufs",
+      "description": "Trouvez les 8 œufs cachés dans l'application pour débloquer le costume exclusif de lapin de Pâques pour Ovali !",
       "startDate": "2026-04-01T00:00:00Z",
       "endDate": "2026-04-15T23:59:59Z",
       "targetCount": 8,
-      "rewardItemId": "bunny_costume", 
-      "active": true
+      "rewardItemId": "bunny_costume",
+      "collectibleIconUrl": "https://url-de-votre-oeuf.png",
+      "debug": true,
+      "locations": [
+        "dashboard_home",
+        "room_tv",
+        "health_main",
+        "journal_main",
+        "sport_main",
+        "nutrition_main",
+        "correlation_insights",
+        "nutrition_insights"
+      ]
     }
   ]
 }
+
