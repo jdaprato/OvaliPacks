@@ -181,7 +181,7 @@
       "type": "image",
       "storagePath": "assets/images/bunny/ovali_reading_in_bed.png",
       "activity": "default",
-      "timeSlot": { "from": "20:31", "to": "21:30" },
+      "timeSlot": { "from": "20:31", "to": "21:40" },
       "screen": [
         "room"
       ]
@@ -191,7 +191,7 @@
       "type": "video",
       "storagePath": "assets/videos/default/ovali_sleeping.mp4",
       "activity": "sleeping",
-      "timeSlot": { "from": "21:31", "to": "07:29" },
+      "timeSlot": { "from": "21:41", "to": "07:29" },
       "screen": [
         "room"
       ]
