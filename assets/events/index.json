@@ -4,13 +4,14 @@
     {
       "id": "easter_2026",
       "title": "Chasse aux Œufs",
-      "description": "Trouvez les 8 œufs cachés dans l'application pour débloquer le costume exclusif de lapin de Pâques pour Ovali !",
+      "description": "Trouvez les 8 œufs cachés dans l'application pour débloquer une récompense unique pour votre Ovali !",
       "startDate": "2026-04-01T00:00:00Z",
       "endDate": "2026-04-15T23:59:59Z",
       "targetCount": 8,
       "rewardItemId": "bunny_costume",
       "collectibleIconUrl": "assets/events/egg.png",
       "debug": true,
+      "victoryVideo": "assets/videos/bunny/victory.mp4",
       "locations": [
         "dashboard_home",
         "room_tv",

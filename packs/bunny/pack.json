@@ -1,7 +1,6 @@
 {
   "id": "cowboy",
   "version": "1.0.0",
-  "victoryVideo": "assets/videos/bunny/victory.mp4",
   "assets": [
           {
         "id": "cowboy_happy_icon",
