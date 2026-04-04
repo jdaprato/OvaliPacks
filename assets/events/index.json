@@ -10,7 +10,7 @@
       "targetCount": 8,
       "rewardItemId": "bunny_costume",
       "collectibleIconUrl": "assets/events/egg2.png",
-      "debug": true,
+      "debug": false,
       "victoryVideo": "assets/videos/bunny/victory.mp4",
       "locations": [
         "dashboard_home",
