@@ -1,0 +1,28 @@
+[
+  {
+    "id": 33,
+    "version": "1.0.1",
+    "date": "2026-05-14",
+    "items": [
+      { 
+        "title": "Mode Pause inclusif", 
+        "description": "Harmonisation des termes 'Vacances' vers 'Pause' et 'Repos' dans toute l'interface." 
+      },
+      { 
+        "title": "À propos d'Ovali", 
+        "description": "Nouvelle page informative avec historique des versions et mission de l'application." 
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "version": "1.0.0",
+    "date": "2026-05-12",
+    "items": [
+      { 
+        "title": "Module Méditation", 
+        "description": "Lancement officiel de la méditation avec podcasts et suivi de cohérence cardiaque." 
+      }
+    ]
+  }
+]
