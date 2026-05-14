@@ -1,0 +1,11 @@
+[
+  {
+    "id": "pix-1",
+    "title": "Vagues de Sérénité",
+    "description": "Une relaxation profonde mise à jour via GitHub.",
+    "durationMinutes": 7,
+    "audioUrl": "sounds/serenity-waves.mp3",
+    "category": "sleep",
+    "author": "Bineleyas"
+  }
+]
