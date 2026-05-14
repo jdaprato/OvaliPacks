@@ -4,7 +4,7 @@
     "title": "Vagues de test",
     "description": "Une relaxation profonde mise à jour via GitHub.",
     "durationMinutes": 7,
-    "audioUrl": "sounds/serenity-waves.mp3",
+    "audioUrl": "../sounds/bineleyas-relaxation-serenity-waves.mp3",
     "category": "sleep",
     "author": "Bineleyas"
   }
