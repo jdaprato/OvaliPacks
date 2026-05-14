@@ -1,27 +1,64 @@
 [
   {
     "id": 33,
-    "version": "1.0.1",
+    "version": "1.0.0",
     "date": "2026-05-14",
     "items": [
       { 
-        "title": "Mode Pause inclusif", 
-        "description": "Harmonisation des termes 'Vacances' vers 'Pause' et 'Repos' dans toute l'interface." 
+        "title": "Changement des icônes de navigation de l'application", 
+        "description": "Les icônes ont été remplacées par des images crées spécialement pour l'application." 
       },
       { 
         "title": "À propos d'Ovali", 
         "description": "Nouvelle page informative avec historique des versions et mission de l'application." 
-      }
-    ]
-  },
-  {
-    "id": 32,
-    "version": "1.0.0",
-    "date": "2026-05-12",
-    "items": [
+      },
       { 
-        "title": "Module Méditation", 
-        "description": "Lancement officiel de la méditation avec podcasts et suivi de cohérence cardiaque." 
+        "title": "Estimation des calories", 
+        "description": "Désormais l'application propose un bouton 'Estimer' qui permet d'estimer les calories brûlées lors des activités." 
+      },
+      { 
+        "title": "Pas et calories", 
+        "description": "Désormais les pas sont comptabilisés dans le total des calories brûlées." 
+      },
+       { 
+        "title": "Refonte header", 
+        "description": "Le header de l'application a été simplifié pour améliorer l'expérience utilisateur." 
+      },
+       { 
+        "title": "Coach IA", 
+        "description": "Le bouton des coachs a été renommé pour être plus visible" 
+      },
+       { 
+        "title": "Boutons flottants", 
+        "description": "Les boutons flottants sont désormais déplaçables (draggables) pour éviter qu'ils ne cachent des éléments de l'interface." 
+      },
+       { 
+        "title": "Nouvelle aide", 
+        "description": "Un petit bouton ? est présent sur toutes les pages et permet de donner l'essentiel des fonctionnalités de celle-ci." 
+       },
+       { 
+        "title": "Nouveau module de méditation", 
+        "description": "Un tout nouveau module a été ajouté : le module méditation." 
+      },
+       { 
+        "title": "Nouveau module de méditation", 
+        "description": "Un tout nouveau module a été ajouté : le module méditation." 
+      },
+             { 
+        "title": "Profil santé et profil sportif", 
+        "description": "Les deux profils ont été complétés avec plus de possibilités pour encore plus de personnalisation." 
+      },
+           { 
+        "title": "Activation et désaction modules", 
+        "description": "On peut désormais plus facilement activer et désactiver les modules via la page paramètres et l'onglet 'Applications'." 
+      },
+      { 
+        "title": "Frigo connecté", 
+        "description": "On peut désormais créer un foyer puis partager les éléments du frigo. Par ailleurs on peut désormais utiliser la saisie vocale pour facilement remplir son frigo." 
+      }
+       ,{ 
+        "title": "Odyssée Ovali", 
+        "description": "Cette nouvelle fonctionnalité permet de gagner facilement de l'XP en découvrant et utilisant les fonctionnalités de l'application." 
       }
     ]
   }
