@@ -1,11 +1,62 @@
 [
   {
     "id": "pix-1",
-    "title": "Vagues de test",
-    "description": "Une relaxation profonde mise à jour via GitHub.",
+    "title": "Vagues de Sérénité",
+    "description": "Une relaxation profonde au rythme des vagues.",
     "durationMinutes": 7,
     "audioUrl": "../sounds/bineleyas-relaxation-serenity-waves.mp3",
     "category": "sleep",
-    "author": "Bineleyas"
+    "author": "Bineleyas",
+    "sourceUrl": "https://pixabay.com/users/bineleyas-8402344/"
+  },
+  {
+    "id": "pix-2",
+    "title": "Éveil Matinal",
+    "description": "Une douce mélodie pour commencer la journée avec clarté.",
+    "durationMinutes": 2,
+    "audioUrl": "../sounds/leberch-relaxation-morning.mp3",
+    "category": "focus",
+    "author": "Leberch",
+    "sourceUrl": "https://pixabay.com/users/leberch-42823964/"
+  },
+  {
+    "id": "pix-3",
+    "title": "Forêt Enchantée",
+    "description": "Une immersion sonore dans la nature pour s'évader.",
+    "durationMinutes": 3,
+    "audioUrl": "../sounds/light_music-forest-relaxation.mp3",
+    "category": "discovery",
+    "author": "Light Music",
+    "sourceUrl": "https://pixabay.com/users/light_music-40074088/"
+  },
+  {
+    "id": "pix-4",
+    "title": "Paix de l'Esprit",
+    "description": "20 minutes de relaxation profonde.",
+    "durationMinutes": 20,
+    "audioUrl": "../sounds/light_music-mind-relaxation-183925y.mp3",
+    "category": "discovery",
+    "author": "Light Music",
+    "sourceUrl": "https://pixabay.com/users/light_music-40074088/"
+  },
+  {
+    "id": "pix-5",
+    "title": "Pluie Apaisante",
+    "description": "Le son de la pluie pour favoriser l'endormissement.",
+    "durationMinutes": 10,
+    "audioUrl": "../sounds/soft-rain-ambient.mp3",
+    "category": "sleep",
+    "author": "Nature Sounds",
+    "sourceUrl": "https://pixabay.com/music/search/rain/"
+  },
+  {
+    "id": "pix-6",
+    "title": "Jardin Japonais",
+    "description": "Séance de méditation accompagnée de 10 minutes.",
+    "durationMinutes": 10,
+    "audioUrl": "../sounds/jardin-japonais.mp3",
+    "category": "focus",
+    "author": "Traditional",
+    "sourceUrl": "https://www.chu-lyon.fr/coherence-cardiaque"
   }
 ]
