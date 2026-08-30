@@ -34,19 +34,19 @@
     "title": "Paix de l'Esprit",
     "description": "20 minutes de relaxation profonde.",
     "durationMinutes": 20,
-    "audioUrl": "../sounds/light_music-mind-relaxation-183925y.mp3",
+    "audioUrl": "../sounds/light_music-mind-relaxation-183925.mp3",
     "category": "discovery",
     "author": "Light Music",
     "sourceUrl": "https://pixabay.com/users/light_music-40074088/"
   },
   {
     "id": "pix-5",
-    "title": "Pluie Apaisante",
-    "description": "Le son de la pluie pour favoriser l'endormissement.",
-    "durationMinutes": 10,
-    "audioUrl": "../sounds/soft-rain-ambient.mp3",
+    "title": "Orage et pluie apaisante",
+    "description": "Le son de la pluie et de l'orage pour favoriser l'endormissement.",
+    "durationMinutes": 4,
+    "audioUrl": "../sounds/rain-thunder.mp3",
     "category": "sleep",
-    "author": "Nature Sounds",
+    "author": "loswin23",
     "sourceUrl": "https://pixabay.com/music/search/rain/"
   },
   {
