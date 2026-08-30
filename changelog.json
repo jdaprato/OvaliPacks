@@ -1,8 +1,8 @@
 [
   {
-    "id": 33,
-    "version": "1.0.0",
-    "date": "2026-05-14",
+    "id": 37,
+    "version": "1.0.0 (version 37)",
+    "date": "2026-05-17",
     "items": [
       { 
         "title": "Changement des icônes de navigation de l'application", 
@@ -21,8 +21,8 @@
         "description": "Désormais les pas sont comptabilisés dans le total des calories brûlées." 
       },
        { 
-        "title": "Refonte header", 
-        "description": "Le header de l'application a été simplifié pour améliorer l'expérience utilisateur." 
+        "title": "Refonte header et nouveaux icônes", 
+        "description": "Le header de l'application a été simplifié pour améliorer l'expérience utilisateur et de nouveaux icônes ont été ajoutés pour la navigation." 
       },
        { 
         "title": "Coach IA", 
@@ -41,10 +41,6 @@
         "description": "Un tout nouveau module a été ajouté : le module méditation." 
       },
        { 
-        "title": "Nouveau module de méditation", 
-        "description": "Un tout nouveau module a été ajouté : le module méditation." 
-      },
-             { 
         "title": "Profil santé et profil sportif", 
         "description": "Les deux profils ont été complétés avec plus de possibilités pour encore plus de personnalisation." 
       },
@@ -55,10 +51,18 @@
       { 
         "title": "Frigo connecté", 
         "description": "On peut désormais créer un foyer puis partager les éléments du frigo. Par ailleurs on peut désormais utiliser la saisie vocale pour facilement remplir son frigo." 
+      },
+      { 
+        "title": "Ajouts aliments proportion et grammage", 
+        "description": "Désormais un appui court vous permet de naviguer de 10 en 10 pour un aliment mesuré en grammes et avec un appui long vous naviguez rapidement de 1 en 1. Pour les portions même principes sauf qu'elles n'incrémentent que de un en un." 
       }
        ,{ 
         "title": "Odyssée Ovali", 
         "description": "Cette nouvelle fonctionnalité permet de gagner facilement de l'XP en découvrant et utilisant les fonctionnalités de l'application." 
+      },
+      {
+        "title": "Recette chef IA", 
+        "description": "Les recettes ont été simplifiées pour coller plus au quotidien." 
       }
     ]
   }
